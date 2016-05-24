@@ -4,7 +4,7 @@
 a, b, liste = 0, 32, []
 
 while b > a:
-    if (b % 3 or b % 5) == 0:
+    if (b % 3 == 0) or (b % 5 == 0):
         liste.append(b)
     b -= 1
 
@@ -17,3 +17,5 @@ while c < len(liste)-1:
     c += 1
 
 print(a)
+
+#je devrais obtenir 225 mais je j'obtiens 222
