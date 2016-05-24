@@ -1,3 +1,5 @@
+#Il s'agit de trouver le plus grand nombre dans une suite de nombre donnée
+
 t1=[32,5,12,8,3,15,2,75]
 L,i=len(t1),0
 g=t1[0]
