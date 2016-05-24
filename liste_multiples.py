@@ -12,7 +12,7 @@ print(liste)
 
 c = 0
 
-while c < len(liste)-1:
+while c < len(liste):
     a = a + liste[c]
     c += 1
 
