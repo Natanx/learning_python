@@ -1,3 +1,6 @@
+#Il s'agit de trier dans deux listes, des nombres issus d'une meme liste. L'une sera composé uniquement de nomber pairs et l'autre
+#uniquement de nombres impairs.
+
 t1=[32,5,12,8,3,15,2,75]
 L,i=len(t1),0
 t2,t3=[],[]
