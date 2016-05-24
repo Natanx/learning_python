@@ -1,3 +1,6 @@
+#Il s'agit de trier en deux listes les prénoms contenant dans l'une moins de 6 caractères et dans dans l'autre 6 ou plus à partir
+#d'une même liste t1 contenant tout les prenoms.
+
 t1=["Jean","Maximilien","Brigitte","Sonia","Jean-pierre","Sandra","Léa","Anna"]
 L,i=len(t1),0
 t2,t3=[],[]
