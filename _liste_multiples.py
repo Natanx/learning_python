@@ -17,5 +17,3 @@ while c < len(liste):
     c += 1
 
 print(a)
-
-#je devrais obtenir 225 mais je j'obtiens 222
