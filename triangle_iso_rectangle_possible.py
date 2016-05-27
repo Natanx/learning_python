@@ -1,3 +1,5 @@
+#On cherche si il existe un triangle isocèle-rectangle tel que ses 3 côtés sont des entiers naturels (int) ...
+
 from math import *
 
 côté, hypothénuse = int(0), int(0)
@@ -18,3 +20,6 @@ if côté:
     print("Pour un hypothénuse de", hypothénuse, "les côtés sont de longueur =", côté)
 
 input()
+
+# pour l'instant le scrip me renvoie qu' il est impossible de faire le calcul. Je sais pas si c'est parce que un tel triangle
+# n'existe pas ou alors que j'ai merdé le code.
